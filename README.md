@@ -2,7 +2,7 @@
 
 ## 🎯 Data Scientist | Python & SAS Developer | Atlanta, GA
 
-Welcome to my GitHub profile! I'm passionate about transforming data into actionable insights and building innovative solutions that make a difference.
+Welcome to my GitHub profile! I'm working on transforming data into actionable insights and building innovative solutions that make a difference.
 
 ### 🛠️ Tech Stack
 
