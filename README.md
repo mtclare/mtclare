@@ -1,4 +1,4 @@
-# Hi there, I'm Michael T Clare 👋
+# Michael T Clare
 
 ## 🎯 Data Scientist | Python & SAS Developer | Atlanta, GA
 
